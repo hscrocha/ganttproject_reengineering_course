@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/event
+END
+TestTaskScheduleEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/event/TestTaskScheduleEvent.java
+END
+TestTaskDependencyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/event/TestTaskDependencyEvent.java
+END
+TestTaskHierarchyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/event/TestTaskHierarchyEvent.java
+END

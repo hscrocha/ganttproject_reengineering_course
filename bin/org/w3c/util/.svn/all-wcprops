@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/org/w3c/util
+END
+InvalidDateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/org/w3c/util/InvalidDateException.java
+END
+DateParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/org/w3c/util/DateParser.java
+END

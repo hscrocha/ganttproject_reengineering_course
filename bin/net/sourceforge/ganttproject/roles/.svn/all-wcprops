@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/79/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/roles
+END
+RoleSetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/roles/RoleSetImpl.java
+END
+RolePersistentID.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/roles/RolePersistentID.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/roles/Role.java
+END
+RoleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/roles/RoleImpl.java
+END
+RoleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/79/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/roles/RoleManager.java
+END
+RoleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/roles/RoleSet.java
+END
+RoleManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/79/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/roles/RoleManagerImpl.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/print
+END
+PrintManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/print/PrintManager.java
+END
+GanttPrintable.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/print/GanttPrintable.java
+END
+PrintPreview.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/print/PrintPreview.java
+END

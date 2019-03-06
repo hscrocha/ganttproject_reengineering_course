@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/193/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui
+END
+GTextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GTextField.java
+END
+GanttTaskPropertiesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/193/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GanttTaskPropertiesBean.java
+END
+GanttLookAndFeels.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GanttLookAndFeels.java
+END
+UIConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/UIConfiguration.java
+END
+GanttDialogPerson.form
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GanttDialogPerson.form
+END
+RolesTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/RolesTableModel.java
+END
+TaskSelectionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/TaskSelectionContext.java
+END
+TextFieldAndFileChooserComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/179/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/TextFieldAndFileChooserComponent.java
+END
+TableHeaderUIFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/TableHeaderUIFacade.java
+END
+GanttTabbedPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GanttTabbedPane.java
+END
+GanttURLChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GanttURLChooser.java
+END
+GanttMetalTheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GanttMetalTheme.java
+END
+DateIntervalListEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/DateIntervalListEditor.java
+END
+GanttDialogCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GanttDialogCalendar.java
+END
+GanttPanelDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GanttPanelDate.java
+END
+GanttLookAndFeelInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GanttLookAndFeelInfo.java
+END
+GanttCellListRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GanttCellListRenderer.java
+END
+UIFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/UIFacade.java
+END
+DialogAligner.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/168/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/DialogAligner.java
+END
+ResourcesTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/ResourcesTableModel.java
+END
+TaskTreeUIFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/TaskTreeUIFacade.java
+END
+GanttStatusBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GanttStatusBar.java
+END
+GanttDialogCustomColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/38/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GanttDialogCustomColumn.java
+END
+GanttDialogPublicHoliday.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GanttDialogPublicHoliday.java
+END
+GanttDialogInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GanttDialogInfo.java
+END
+ProjectUIFacadeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/189/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/ProjectUIFacadeImpl.java
+END
+GanttDialogProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GanttDialogProperties.java
+END
+UIUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/168/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/UIUtil.java
+END
+ResourceDialogCustomColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/ResourceDialogCustomColumn.java
+END
+OpenFileDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/OpenFileDialog.java
+END
+GanttDialogPerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/55/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GanttDialogPerson.java
+END
+ProjectUIFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/189/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/ProjectUIFacade.java
+END
+ResourceTreeUIFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/ResourceTreeUIFacade.java
+END
+FileChooserPageBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/185/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/FileChooserPageBase.java
+END
+GanttDialogDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GanttDialogDate.java
+END
+GeneralDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/GeneralDialog.java
+END
+TestGanttRolloverButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/TestGanttRolloverButton.java
+END

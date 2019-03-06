@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/197/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject
+END
+GanttProjectBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/165/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttProjectBase.java
+END
+GanttTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttTask.java
+END
+ResourceTreeTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/151/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/ResourceTreeTableModel.java
+END
+GanttImagePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttImagePanel.java
+END
+FacadeInvalidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/FacadeInvalidator.java
+END
+TreeTableCellEditorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/TreeTableCellEditorImpl.java
+END
+GPView.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GPView.java
+END
+PluginPreferencesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/71/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/PluginPreferencesImpl.java
+END
+Mediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/Mediator.java
+END
+GanttProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/189/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttProject.java
+END
+GanttResourcePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/154/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttResourcePanel.java
+END
+GPLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/132/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GPLogger.java
+END
+GanttCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/126/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttCalendar.java
+END
+CustomPropertyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/CustomPropertyManager.java
+END
+GanttPreviousState.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttPreviousState.java
+END
+GPVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/135/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GPVersion.java
+END
+CustomPropertyHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/CustomPropertyHolder.java
+END
+ResourceLoadGraphicArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/47/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/ResourceLoadGraphicArea.java
+END
+GanttTree2.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/123/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttTree2.java
+END
+CustomProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/CustomProperty.java
+END
+ResourceTreeImageGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/ResourceTreeImageGenerator.java
+END
+GanttTaskRelationship.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttTaskRelationship.java
+END
+UIFacadeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/UIFacadeImpl.java
+END
+CustomPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/CustomPropertyDefinition.java
+END
+GanttCalendarDays.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttCalendarDays.java
+END
+GPToolBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GPToolBar.java
+END
+ErrorNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/ErrorNotifier.java
+END
+GanttPreviousStateTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttPreviousStateTask.java
+END
+GanttViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttViewer.java
+END
+GanttExportSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttExportSettings.java
+END
+GanttChartTabContentPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttChartTabContentPanel.java
+END
+GanttGraphicArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/190/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttGraphicArea.java
+END
+GanttTreeTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/123/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttTreeTable.java
+END
+TaskContainmentHierarchyFacadeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/90/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/TaskContainmentHierarchyFacadeImpl.java
+END
+PluginOptionsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/68/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/PluginOptionsHandler.java
+END
+OSXAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/189/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/OSXAdapter.java
+END
+ResourceChartTabContentPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/ResourceChartTabContentPanel.java
+END
+IGanttProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/165/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/IGanttProject.java
+END
+ProjectEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/ProjectEventListener.java
+END
+TaskModelModificationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/TaskModelModificationListener.java
+END
+ResourceTreeTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/154/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/ResourceTreeTable.java
+END
+ChartComponentBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/110/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/ChartComponentBase.java
+END
+PreferenceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/67/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/PreferenceServiceImpl.java
+END
+GanttProjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/165/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttProjectImpl.java
+END
+GanttTreeTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/123/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttTreeTableModel.java
+END
+GanttSplash.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttSplash.java
+END
+GanttOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/183/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GanttOptions.java
+END
+GPTreeTableBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/123/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GPTreeTableBase.java
+END
+PrjInfos.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/PrjInfos.java
+END
+TaskTreeImageGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/TaskTreeImageGenerator.java
+END
+GPViewManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/GPViewManager.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/data/resources/xslt
+END
+gantt-utils.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/data/resources/xslt/gantt-utils.xsl
+END
+gantt-chart.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/data/resources/xslt/gantt-chart.xsl
+END
+gantt.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/data/resources/xslt/gantt.xsl
+END
+gantt-tasks.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/data/resources/xslt/gantt-tasks.xsl
+END
+gantt-resources.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/data/resources/xslt/gantt-resources.xsl
+END

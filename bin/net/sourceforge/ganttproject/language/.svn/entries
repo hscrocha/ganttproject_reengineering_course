@@ -1,0 +1,52 @@
+8
+
+dir
+197
+http://ganttproject.googlecode.com/svn/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/language
+http://ganttproject.googlecode.com/svn
+
+
+
+2009-07-08T23:44:23.653733Z
+75
+dbarashev@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7decb562-93fb-11dd-aa64-9d59f034897a
+
+GanttLanguage.java
+file
+
+
+
+
+2010-05-31T17:20:59.000000Z
+6190d7f81a9919666f2ed6a74b13824a
+2009-07-08T23:44:23.653733Z
+75
+dbarashev@gmail.com
+
+CharSetMap.java
+file
+
+
+
+
+2010-05-31T17:20:59.000000Z
+98006d55da842cf92cb07bb9bb39ed8a
+2009-05-24T23:30:39.894268Z
+37
+dbarashev
+

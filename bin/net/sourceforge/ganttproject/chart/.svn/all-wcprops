@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/197/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart
+END
+Chart.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/40/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/Chart.java
+END
+TestChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/40/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/TestChart.java
+END
+Painter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/Painter.java
+END
+ChartModelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/197/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/ChartModelImpl.java
+END
+DependencyInteractionRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/DependencyInteractionRenderer.java
+END
+ChartSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/ChartSelection.java
+END
+ChartOptionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/ChartOptionGroup.java
+END
+OptionsDialogAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/110/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/OptionsDialogAction.java
+END
+StyledPainterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/StyledPainterImpl.java
+END
+SkewedFrameOffsetBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/SkewedFrameOffsetBuilder.java
+END
+RenderedGanttChartImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/RenderedGanttChartImage.java
+END
+ChartModelBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/118/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/ChartModelBase.java
+END
+RenderedChartImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/RenderedChartImage.java
+END
+OffsetCalculatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/OffsetCalculatorImpl.java
+END
+ChartModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/ChartModel.java
+END
+ChartRendererBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/ChartRendererBase.java
+END
+ResourcesRendererImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/ResourcesRendererImpl.java
+END
+RegularFrameOffsetBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/40/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/RegularFrameOffsetBuilder.java
+END
+ChartHeaderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/ChartHeaderImpl.java
+END
+ChartViewState.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/ChartViewState.java
+END
+GanttChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/GanttChart.java
+END
+ToggleChartAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/ToggleChartAction.java
+END
+SimpleRenderedImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/SimpleRenderedImage.java
+END
+PublicHolidayDialogAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/116/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/PublicHolidayDialogAction.java
+END
+GraphicPrimitiveContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/GraphicPrimitiveContainer.java
+END
+ResourceChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/ResourceChart.java
+END
+ChartHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/ChartHeader.java
+END
+TaskRendererImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/105/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/TaskRendererImpl.java
+END
+TaskInteractionHintRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/TaskInteractionHintRenderer.java
+END
+DayTypeAlternance.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/DayTypeAlternance.java
+END
+ChartSelectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/ChartSelectionListener.java
+END
+ResourceLoadRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/ResourceLoadRenderer.java
+END
+TimeUnitVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/TimeUnitVisitor.java
+END
+LabelPositionOptionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/LabelPositionOptionImpl.java
+END
+TaskGridRendererImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/TaskGridRendererImpl.java
+END
+BottomUnitLineRendererImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/10/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/BottomUnitLineRendererImpl.java
+END
+RenderedResourceChartImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/RenderedResourceChartImage.java
+END
+ChartUIConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/ChartUIConfiguration.java
+END
+BackgroundRendererImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/BackgroundRendererImpl.java
+END
+ChartGridImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/118/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/ChartGridImpl.java
+END
+ChartModelResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/47/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/ChartModelResource.java
+END
+VisibleNodesFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/chart/VisibleNodesFilter.java
+END

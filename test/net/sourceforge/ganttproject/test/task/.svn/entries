@@ -1,0 +1,136 @@
+8
+
+dir
+197
+http://ganttproject.googlecode.com/svn/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task
+http://ganttproject.googlecode.com/svn
+
+
+
+2010-04-08T16:34:36.720433Z
+158
+dbarashev@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7decb562-93fb-11dd-aa64-9d59f034897a
+
+event
+dir
+
+TestLocalCriticalPath.java
+file
+
+
+
+
+2010-05-31T17:20:39.000000Z
+3d648dbf39dac85b755869838cf6035e
+2009-07-26T19:55:00.242224Z
+103
+dbarashev@gmail.com
+
+TestResourceAssignments.java
+file
+
+
+
+
+2010-05-31T17:20:39.000000Z
+63d85b87d1f7c242b97dbd4c83abed54
+2008-11-09T00:20:58.281975Z
+2
+dbarashev
+
+TestOffsetCalculation.java
+file
+
+
+
+
+2010-05-31T17:20:39.000000Z
+5abc91d6a6e587e1cb9663cd266f79c0
+2008-11-09T00:20:58.281975Z
+2
+dbarashev
+
+TestCriticalPath.java
+file
+
+
+
+
+2010-05-31T17:20:39.000000Z
+cce725e0b81c5d3a58534dabc62e7475
+2009-07-26T19:55:00.242224Z
+103
+dbarashev@gmail.com
+
+calendar
+dir
+
+TestTaskCompletionPercentage.java
+file
+
+
+
+
+2010-05-31T17:20:39.000000Z
+003bf48a0741f2dde5f33bac5e41c96a
+2008-11-09T00:20:58.281975Z
+2
+dbarashev
+
+ImportTasksTestCase.java
+file
+
+
+
+
+2010-05-31T17:20:39.000000Z
+69aaf35a710d37bab9acb84a52258ffe
+2008-11-09T00:20:58.281975Z
+2
+dbarashev
+
+TestTaskActivitiesRecalculation.java
+file
+
+
+
+
+2010-05-31T17:20:39.000000Z
+08d1ce64fdaa30399661c2f17dfaf6cf
+2008-11-09T00:20:58.281975Z
+2
+dbarashev
+
+dependency
+dir
+
+hierarchy
+dir
+
+TaskTestCase.java
+file
+
+
+
+
+2010-05-31T17:20:39.000000Z
+bb87c26703aa61253c37c4472d9778ce
+2010-04-08T16:34:36.720433Z
+158
+dbarashev@gmail.com
+

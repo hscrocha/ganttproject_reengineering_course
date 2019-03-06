@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/shape
+END
+Shape.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/shape/Shape.java
+END
+PreviewPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/shape/PreviewPanel.java
+END
+JPaintList.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/shape/JPaintList.java
+END
+PaintCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/shape/PaintCellRenderer.java
+END
+JPaintCombo.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/shape/JPaintCombo.java
+END
+ColorConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/shape/ColorConstants.java
+END
+ShapePaint.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/shape/ShapePaint.java
+END
+ShapeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/shape/ShapeConstants.java
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+197
+http://ganttproject.googlecode.com/svn/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/time
+http://ganttproject.googlecode.com/svn
+
+
+
+2008-11-09T00:20:58.281975Z
+2
+dbarashev
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7decb562-93fb-11dd-aa64-9d59f034897a
+
+GregorianTimeStackTest.java
+file
+
+
+
+
+2010-05-31T17:20:39.000000Z
+b27742e96e104781f958279eb803fc67
+2008-11-09T00:20:58.281975Z
+2
+dbarashev
+
+TestWeekFramer.java
+file
+
+
+
+
+2010-05-31T17:20:39.000000Z
+5c9e7cbdf61428e758e0ebc18e73047f
+2008-11-09T00:20:58.281975Z
+2
+dbarashev
+

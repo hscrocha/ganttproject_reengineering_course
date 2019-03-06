@@ -1,0 +1,40 @@
+8
+
+dir
+197
+http://ganttproject.googlecode.com/svn/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/resource
+http://ganttproject.googlecode.com/svn
+
+
+
+2008-11-09T00:20:58.281975Z
+2
+dbarashev
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7decb562-93fb-11dd-aa64-9d59f034897a
+
+ResourcePropertiesAction.java
+file
+
+
+
+
+2010-05-31T17:20:58.000000Z
+522b608ad6553cf55826563e6fd8b3e9
+2008-11-09T00:20:58.281975Z
+2
+dbarashev
+

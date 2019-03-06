@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/taskproperties
+END
+InternalStateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/taskproperties/InternalStateListener.java
+END
+DependencyTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/taskproperties/DependencyTableModel.java
+END
+CommonPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/taskproperties/CommonPanel.java
+END
+TaskDependenciesPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/taskproperties/TaskDependenciesPanel.java
+END
+CustomColumnsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/taskproperties/CustomColumnsPanel.java
+END
+TaskAllocationsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/taskproperties/TaskAllocationsPanel.java
+END

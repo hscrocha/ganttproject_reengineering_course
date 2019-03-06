@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/170/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/projectwizard
+END
+I18N.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/projectwizard/I18N.java
+END
+NewProjectWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/projectwizard/NewProjectWizard.java
+END
+WizardImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/170/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/projectwizard/WizardImpl.java
+END
+ProjectNamePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/projectwizard/ProjectNamePage.java
+END
+WeekendConfigurationPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/projectwizard/WeekendConfigurationPage.java
+END
+NewProjectWizardWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/projectwizard/NewProjectWizardWindow.java
+END
+RoleSetPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/projectwizard/RoleSetPage.java
+END
+WizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/projectwizard/WizardPage.java
+END

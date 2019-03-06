@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/about
+END
+AboutLibraryPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/about/AboutLibraryPanel.java
+END
+AboutPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/about/AboutPanel.java
+END
+AboutDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/about/AboutDialog.java
+END
+AboutJavaInfosPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/about/AboutJavaInfosPanel.java
+END
+AboutAuthorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/about/AboutAuthorPanel.java
+END
+AboutLicensePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/about/AboutLicensePanel.java
+END

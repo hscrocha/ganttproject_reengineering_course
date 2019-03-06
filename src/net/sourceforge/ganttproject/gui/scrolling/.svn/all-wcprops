@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/scrolling
+END
+ScrollingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/scrolling/ScrollingListener.java
+END
+ScrollingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/scrolling/ScrollingManager.java
+END
+ScrollingManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/gui/scrolling/ScrollingManagerImpl.java
+END

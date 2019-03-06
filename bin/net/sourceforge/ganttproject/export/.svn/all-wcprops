@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/182/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/export
+END
+FileChooserPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/182/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/export/FileChooserPage.java
+END
+ExportFileAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/172/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/export/ExportFileAction.java
+END
+ExportException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/export/ExportException.java
+END
+TaskVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/export/TaskVisitor.java
+END
+DeprecatedProjectExportData.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/export/DeprecatedProjectExportData.java
+END
+ExportFileWizardImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/182/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/export/ExportFileWizardImpl.java
+END
+ConsoleUIFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/172/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/export/ConsoleUIFacade.java
+END
+ExportFinalizationJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/export/ExportFinalizationJob.java
+END
+ExporterToCSV.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/172/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/export/ExporterToCSV.java
+END
+Exporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/172/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/export/Exporter.java
+END
+ExporterChooserPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/172/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/export/ExporterChooserPage.java
+END
+WebPublisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/export/WebPublisher.java
+END
+CommandLineExportApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/172/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/export/CommandLineExportApplication.java
+END
+ExporterToImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/172/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/export/ExporterToImage.java
+END

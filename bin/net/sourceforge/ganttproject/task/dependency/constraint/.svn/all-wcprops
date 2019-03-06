@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/98/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/constraint
+END
+StartStartConstraintImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/98/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/constraint/StartStartConstraintImpl.java
+END
+StartFinishConstraintImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/98/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/constraint/StartFinishConstraintImpl.java
+END
+FinishStartConstraintImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/98/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/constraint/FinishStartConstraintImpl.java
+END
+ConstraintImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/96/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/constraint/ConstraintImpl.java
+END
+FinishFinishConstraintImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/98/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/constraint/FinishFinishConstraintImpl.java
+END
+DependencyActivityBindingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/constraint/DependencyActivityBindingImpl.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/102/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/dependency
+END
+TestStartFinishDepedency.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/102/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/dependency/TestStartFinishDepedency.java
+END
+Test1362749.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/dependency/Test1362749.java
+END
+TestSupertaskAdjustment.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/dependency/TestSupertaskAdjustment.java
+END
+TestDependencyActivityBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/dependency/TestDependencyActivityBinding.java
+END
+DependencyTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/dependency/DependencyTestSuite.java
+END
+TestTaskDependencyCommon.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/dependency/TestTaskDependencyCommon.java
+END
+TestRecalculateTaskScheduleAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/dependency/TestRecalculateTaskScheduleAlgorithm.java
+END
+TestDependencyCycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/dependency/TestDependencyCycle.java
+END

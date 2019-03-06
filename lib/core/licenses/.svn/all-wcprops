@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/lib/core/licenses
+END
+jdnc.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/lib/core/licenses/jdnc.LICENSE
+END
+commons-logging.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/lib/core/licenses/commons-logging.LICENSE
+END
+apple.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/lib/core/licenses/apple.LICENSE
+END
+commons-httpclient.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/lib/core/licenses/commons-httpclient.LICENSE
+END
+jakarta-slide-webdavlib.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/lib/core/licenses/jakarta-slide-webdavlib.LICENSE
+END
+jgoodies-looks.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/lib/core/licenses/jgoodies-looks.LICENSE
+END
+jdom.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/lib/core/licenses/jdom.LICENSE
+END
+xml-im-exporter.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/lib/core/licenses/xml-im-exporter.LICENSE
+END
+helpgui.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/lib/core/licenses/helpgui.LICENSE
+END

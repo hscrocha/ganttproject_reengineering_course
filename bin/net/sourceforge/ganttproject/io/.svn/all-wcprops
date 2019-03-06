@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/181/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/io
+END
+GanttTXTOpen.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/181/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/io/GanttTXTOpen.java
+END
+GanttXMLSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/io/GanttXMLSaver.java
+END
+HistorySaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/io/HistorySaver.java
+END
+TaskSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/io/TaskSaver.java
+END
+VacationSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/io/VacationSaver.java
+END
+GPSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/io/GPSaver.java
+END
+CSVOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/io/CSVOptions.java
+END
+AssignmentSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/155/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/io/AssignmentSaver.java
+END
+CalendarSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/io/CalendarSaver.java
+END
+ViewSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/io/ViewSaver.java
+END
+SaverBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/io/SaverBase.java
+END
+GanttXMLOpen.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/io/GanttXMLOpen.java
+END
+ResourceSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/io/ResourceSaver.java
+END
+GanttChartViewSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/io/GanttChartViewSaver.java
+END
+GanttCSVExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/io/GanttCSVExport.java
+END
+GanttXFIGSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/io/GanttXFIGSaver.java
+END

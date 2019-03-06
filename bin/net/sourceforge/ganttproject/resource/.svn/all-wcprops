@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/176/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/resource
+END
+LoadDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/resource/LoadDistribution.java
+END
+HumanResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/resource/HumanResource.java
+END
+OverwritingMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/176/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/resource/OverwritingMerger.java
+END
+ResourceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/resource/ResourceView.java
+END
+ResourceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/166/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/resource/ResourceManager.java
+END
+HumanResourceMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/176/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/resource/HumanResourceMerger.java
+END
+ResourceColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/resource/ResourceColumn.java
+END
+ResourceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/resource/ResourceEvent.java
+END
+HumanResourceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/166/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/resource/HumanResourceManager.java
+END
+ResourceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/resource/ResourceContext.java
+END
+ResourceNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/resource/ResourceNode.java
+END
+AssignmentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/resource/AssignmentContext.java
+END
+ProjectResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/154/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/resource/ProjectResource.java
+END
+AssignmentNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/151/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/resource/AssignmentNode.java
+END

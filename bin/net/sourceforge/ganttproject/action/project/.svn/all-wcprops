@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/189/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/project
+END
+SaveURLAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/project/SaveURLAction.java
+END
+OpenURLAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/189/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/project/OpenURLAction.java
+END
+SaveProjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/project/SaveProjectAction.java
+END
+OpenProjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/project/OpenProjectAction.java
+END
+SaveProjectAsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/project/SaveProjectAsAction.java
+END
+ExitAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/project/ExitAction.java
+END
+PrintAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/project/PrintAction.java
+END
+ProjectMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/181/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/project/ProjectMenu.java
+END
+NewProjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/project/NewProjectAction.java
+END

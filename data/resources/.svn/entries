@@ -1,0 +1,79 @@
+8
+
+dir
+197
+http://ganttproject.googlecode.com/svn/branches/ganttproject-2.0/ganttproject/data/resources
+http://ganttproject.googlecode.com/svn
+
+
+
+2010-05-27T23:03:08.736840Z
+194
+dbarashev@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7decb562-93fb-11dd-aa64-9d59f034897a
+
+logging.properties
+file
+
+
+
+
+2010-05-31T17:21:06.000000Z
+1207f891faf53012433e3f4c452adc34
+2009-09-01T22:55:53.757556Z
+132
+dbarashev@gmail.com
+
+language
+dir
+
+logos
+dir
+
+logs
+dir
+
+docs
+dir
+
+calendar
+dir
+
+xslt
+dir
+
+xslfo
+dir
+
+dtd
+dir
+
+icons
+dir
+
+keyboard.properties
+file
+
+
+
+
+2010-05-31T17:21:06.000000Z
+0eaabfbacc3ec67d67d7cd167e9647b1
+2010-04-05T23:16:58.839124Z
+157
+dbarashev@gmail.com
+

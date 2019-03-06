@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/166/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/calendar
+END
+GPCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/calendar/GPCalendar.java
+END
+CalendarFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/8/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/calendar/CalendarFactory.java
+END
+CalendarActivityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/calendar/CalendarActivityImpl.java
+END
+GanttDaysOff.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/166/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/calendar/GanttDaysOff.java
+END
+GPCalendarBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/calendar/GPCalendarBase.java
+END
+AlwaysWorkingTimeCalendarImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/calendar/AlwaysWorkingTimeCalendarImpl.java
+END
+XMLCalendarOpen.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/calendar/XMLCalendarOpen.java
+END
+GPCalendarActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/calendar/GPCalendarActivity.java
+END
+WeekendCalendarImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/158/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/calendar/WeekendCalendarImpl.java
+END

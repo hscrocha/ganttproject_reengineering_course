@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/98/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency
+END
+TaskDependencyCollectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/3/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/TaskDependencyCollectionImpl.java
+END
+TaskDependencySliceAsDependee.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/TaskDependencySliceAsDependee.java
+END
+TaskDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/TaskDependency.java
+END
+LoopDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/3/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/LoopDetector.java
+END
+TaskDependencySliceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/TaskDependencySliceImpl.java
+END
+TaskDependencyConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/98/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/TaskDependencyConstraint.java
+END
+TaskDependencyCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/TaskDependencyCollection.java
+END
+SearchKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/SearchKey.java
+END
+RangeSearchFromKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/RangeSearchFromKey.java
+END
+TaskDependencyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/TaskDependencyException.java
+END
+TaskDependencySlice.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/TaskDependencySlice.java
+END
+TaskDependencyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/TaskDependencyImpl.java
+END
+MutableTaskDependencyCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/MutableTaskDependencyCollection.java
+END
+EventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/EventDispatcher.java
+END
+TaskDependencySliceAsDependant.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/TaskDependencySliceAsDependant.java
+END
+TaskDependencyCollectionMutator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/TaskDependencyCollectionMutator.java
+END
+RangeSearchToKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/dependency/RangeSearchToKey.java
+END

@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/195/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task
+END
+CustomColumnsStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/53/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/CustomColumnsStorage.java
+END
+TaskActivityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/TaskActivityImpl.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/190/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/Task.java
+END
+CustomColumsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/CustomColumsListener.java
+END
+TaskSelectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/TaskSelectionManager.java
+END
+TaskLength.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/TaskLength.java
+END
+BlankLineNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/BlankLineNode.java
+END
+CustomColumnsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/123/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/CustomColumnsManager.java
+END
+TaskNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/TaskNode.java
+END
+CustomColumEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/CustomColumEvent.java
+END
+MutableTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/MutableTask.java
+END
+ResourceAssignmentCollectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/ResourceAssignmentCollectionImpl.java
+END
+TaskInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/TaskInfo.java
+END
+TaskMutator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/TaskMutator.java
+END
+TaskProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/TaskProperties.java
+END
+TaskActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/TaskActivity.java
+END
+TaskManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/90/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/TaskManagerImpl.java
+END
+ResourceAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/ResourceAssignment.java
+END
+TaskManagerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/TaskManagerConfig.java
+END
+TaskImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/195/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/TaskImpl.java
+END
+TaskDocumentOrderComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/TaskDocumentOrderComparator.java
+END
+TaskContainmentHierarchyFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/90/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/TaskContainmentHierarchyFacade.java
+END
+TaskLengthImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/TaskLengthImpl.java
+END
+CustomColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/CustomColumn.java
+END
+CustomColumnsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/CustomColumnsException.java
+END
+CustomColumnsValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/123/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/CustomColumnsValues.java
+END
+ResourceAssignmentMutator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/ResourceAssignmentMutator.java
+END
+ResourceAssignmentCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/ResourceAssignmentCollection.java
+END
+TaskManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/82/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/task/TaskManager.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/filter
+END
+GanttCSVFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/filter/GanttCSVFilter.java
+END
+ExtensionBasedFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/filter/ExtensionBasedFileFilter.java
+END
+GanttXFIGFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/filter/GanttXFIGFileFilter.java
+END
+GanttTXTFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/filter/GanttTXTFileFilter.java
+END
+GanttJPGFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/filter/GanttJPGFileFilter.java
+END
+GanttXMLFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/filter/GanttXMLFileFilter.java
+END
+GanttMSProjectLFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/filter/GanttMSProjectLFileFilter.java
+END
+GanttPNGFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/filter/GanttPNGFileFilter.java
+END
+GanttHTMLFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/filter/GanttHTMLFileFilter.java
+END
+GanttXSLFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/filter/GanttXSLFileFilter.java
+END
+GanttPDFFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/filter/GanttPDFFileFilter.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/158/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task
+END
+TestLocalCriticalPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/103/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/TestLocalCriticalPath.java
+END
+TestResourceAssignments.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/TestResourceAssignments.java
+END
+TestOffsetCalculation.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/TestOffsetCalculation.java
+END
+TestCriticalPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/103/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/TestCriticalPath.java
+END
+TestTaskCompletionPercentage.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/TestTaskCompletionPercentage.java
+END
+ImportTasksTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/ImportTasksTestCase.java
+END
+TestTaskActivitiesRecalculation.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/TestTaskActivitiesRecalculation.java
+END
+TaskTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/158/branches/ganttproject-2.0/ganttproject/test/net/sourceforge/ganttproject/test/task/TaskTestCase.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/time/gregorian
+END
+GregorianTimeUnitStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/time/gregorian/GregorianTimeUnitStack.java
+END
+WeekTextFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/10/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/time/gregorian/WeekTextFormatter.java
+END
+CachingTextFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/time/gregorian/CachingTextFormatter.java
+END
+DayTextFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/time/gregorian/DayTextFormatter.java
+END
+GregorianCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/time/gregorian/GregorianCalendar.java
+END
+YearTextFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/10/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/time/gregorian/YearTextFormatter.java
+END
+WeekFramerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/10/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/time/gregorian/WeekFramerImpl.java
+END
+TimeFrameImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/10/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/time/gregorian/TimeFrameImpl.java
+END
+GPTimeUnitStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/time/gregorian/GPTimeUnitStack.java
+END
+FramerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/10/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/time/gregorian/FramerImpl.java
+END
+MonthTextFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/time/gregorian/MonthTextFormatter.java
+END

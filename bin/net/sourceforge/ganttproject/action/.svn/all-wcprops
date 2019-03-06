@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/189/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action
+END
+ResourceActionSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/ResourceActionSet.java
+END
+NewArtefactAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/NewArtefactAction.java
+END
+RolloverAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/RolloverAction.java
+END
+UndoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/UndoAction.java
+END
+GPAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/157/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/GPAction.java
+END
+ImportResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/ImportResources.java
+END
+AddBlankLineAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/AddBlankLineAction.java
+END
+OkAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/OkAction.java
+END
+ZoomInAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/ZoomInAction.java
+END
+NewTaskAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/NewTaskAction.java
+END
+ScrollGanttChartRightAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/ScrollGanttChartRightAction.java
+END
+ZoomOutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/ZoomOutAction.java
+END
+NewHumanAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/NewHumanAction.java
+END
+CancelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/CancelAction.java
+END
+CalculateCriticalPathAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/CalculateCriticalPathAction.java
+END
+ResourceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/ResourceAction.java
+END
+ScrollGanttChartLeftAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/ScrollGanttChartLeftAction.java
+END
+RefreshViewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/RefreshViewAction.java
+END
+RedoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/RedoAction.java
+END
+DeleteHumanAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/DeleteHumanAction.java
+END
+DeleteAssignmentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/DeleteAssignmentAction.java
+END
+SwitchViewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/branches/ganttproject-2.0/ganttproject/src/net/sourceforge/ganttproject/action/SwitchViewAction.java
+END
