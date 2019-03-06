@@ -60,7 +60,7 @@ public abstract class FileChooserPageBase implements WizardPage {
     private JTextField myUrlField;
     private OptionsPageBuilder myOptionsBuilder;
     private JPanel mySecondaryOptionsComponent;
-    private int ourSelectedSource = FILE_SOURCE;
+    private static int ourSelectedSource = FILE_SOURCE;
     private final WizardImpl myWizard;
     private final boolean isUrlChooserEnabled;
     private final JLabel myFileLabel = new JLabel("  ");
@@ -313,7 +313,7 @@ public abstract class FileChooserPageBase implements WizardPage {
                         }
                         myFetchedFile = tempFile;
                         setStatus(new Status(IStatus.OK, "foo",
-                                MessageFormat.format("Successfully fetched from {0}", myUrl)));
+                                ourSelectedSource, MessageFormat.format("Successfully fetched from {0}", myUrl), null));
                     }
                     finally {
                         to.flush();
@@ -326,7 +326,7 @@ public abstract class FileChooserPageBase implements WizardPage {
             }
             catch (IOException e) {
                 setStatus(new Status(IStatus.ERROR, "foo",
-                        MessageFormat.format("Failed to fetch from {0}\n{1}", myUrl, e.getMessage())));
+                        ourSelectedSource, MessageFormat.format("Failed to fetch from {0}\n{1}", myUrl, e.getMessage()), e));
             }
             finally {
                 isFetching = false;

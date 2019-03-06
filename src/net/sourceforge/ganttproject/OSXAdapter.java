@@ -10,7 +10,7 @@ import com.apple.eawt.ApplicationEvent;
 
 public class OSXAdapter extends ApplicationAdapter {
 	private static OSXAdapter osxAdapter;
-	private static com.apple.eawt.Application theApp;
+	//private static com.apple.eawt.Application theApp;
 	private GanttProject myProj;
 
 	private OSXAdapter(GanttProject myProj) {
@@ -64,7 +64,7 @@ public class OSXAdapter extends ApplicationAdapter {
 	}
 
 	public static void registerMacOSXApplication(GanttProject myProj) {
-		if (theApp == null) {
+		/*if (theApp == null) {
 			theApp = new com.apple.eawt.Application();
 		}
 
@@ -72,6 +72,6 @@ public class OSXAdapter extends ApplicationAdapter {
 			osxAdapter = new OSXAdapter(myProj);
 		}
 
-		theApp.addApplicationListener(osxAdapter);
+		theApp.addApplicationListener(osxAdapter); */
 	}
 }
